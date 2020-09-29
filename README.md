@@ -6,11 +6,11 @@
 
 | Fonction  | Implement | Test |
 | ------ | ------ | ------ |
-| Generate Lib | [GeneLib](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/utils/GeneLib.java)| [test](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/tests/Main.java) |
-| Alignement | [AlignCost](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/utils/Aligner.java)| [test](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/tests/Main.java)|
-| Algo01 | [Greedy](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/algos/GreedyGeneMaker.java)| [test](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/tests/GreedyTest.java)|
-| Algo02 | [Random](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/algos/RandomGeneMaker.java)| [test](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/tests/RandomTest.java)|
-| Algo03 | [Genetic_Multi-threads](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/algos/GeneticGeneMaker.java)| [test](https://github.com/huangshenyuan-unice/algo_avenc-/blob/master/src/Gene/tests/HeuristicTest.java)|
+| Generate Lib | [GeneLib](/src/Gene/utils/GeneLib.java)| [test](/src/Gene/tests/Main.java) |
+| Alignement | [AlignCost](/src/Gene/utils/Aligner.java)| [test](/src/Gene/tests/Main.java)|
+| Algo01 | [Greedy](/src/Gene/algos/GreedyGeneMaker.java)| [test](/src/Gene/tests/GreedyTest.java)|
+| Algo02 | [Random](/src/Gene/algos/RandomGeneMaker.java)| [test](/src/Gene/tests/RandomTest.java)|
+| Algo03 | [Genetic_Multi-threads](/src/Gene/algos/GeneticGeneMaker.java)| [test](/src/Gene/tests/HeuristicTest.java)|
 
 
 Inspired by:[https://www.canal-u.tv/producteurs/inria/cours_en_ligne/bioinformatique_algorithmes_et_genomes](https://www.canal-u.tv/producteurs/inria/cours_en_ligne/bioinformatique_algorithmes_et_genomes)
